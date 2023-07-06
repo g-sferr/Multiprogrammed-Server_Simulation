@@ -27,6 +27,6 @@ Contact me if you have any corrections or additional features to offer me.
 <h2>👥 Authors:</h2>
 <ul>
   <li><a href="https://github.com/mirawara">Lorenzo Mirabella</a></li>
-  <li><a href="[https://https://github.com/EdoardoLoni](https://github.com/EdoardoLoni)">Edoardo Loni</a></li>
-  <li><a href="[https://https://github.com/g-sferr](https://github.com/g-sferr)">Gaetano Sferrazza</a></li>
+  <li><a href="https://github.com/EdoardoLoni">Edoardo Loni</a></li>
+  <li><a href="https://github.com/g-sferr">Gaetano Sferrazza</a></li>
 </ul>
